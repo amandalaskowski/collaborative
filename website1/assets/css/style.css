@@ -1,6 +1,18 @@
 body{
     background: #BDBDBD;
 }
+
+.image {
+    background-image : url("https://wallpaperboat.com/wp-content/uploads/2019/11/vibrant-01.jpg");
+    background-repeat : no-repeat;
+    background-size : cover;
+    height : 500px;
+    
+}
+
+.jumbotext {
+    color: white;
+}
 .navbar-custom{
     background-color: #111214;
 }
